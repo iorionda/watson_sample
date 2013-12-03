@@ -1,7 +1,7 @@
 # [TBD] - class 名を考える
 class WatsonSample
   # [TODO] - method 名を変更
-  def self.helloworld
+  def self.hello_watson
     # [NOTE] - 基本はこれ
     puts 'hello world'
   end
@@ -17,4 +17,4 @@ else
   puts "false"
 end
 
-WatsonSample.helloworld
+WatsonSample.hello_watson
