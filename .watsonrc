@@ -20,3 +20,14 @@ FIXME
 [ignore]
 .git
 *.swp
+
+[github_api]
+72f7cbf65703cc853e28b63c7e8549be0a9d7c1d
+
+
+[github_repo]
+iori-o/watson_sample
+
+
+[github_endpoint]
+https://api.github.com
